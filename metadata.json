@@ -1,0 +1,6 @@
+{
+  "name": "Fitback Reset",
+  "description": "Mobile-first client payment, package, and physiotherapist commission tracking application for Fitback Reset physiotherapy practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
